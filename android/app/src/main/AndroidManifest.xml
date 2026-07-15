@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_rest_api">
+    package="com.zetrasystems.zetraid">
    <application
-        android:label="flutter_rest_api"
+        android:label="Zetra ID"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
