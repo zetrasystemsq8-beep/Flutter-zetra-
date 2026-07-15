@@ -1,4 +1,4 @@
-package com.example.flutter_rest_api
+package com.zetrasystems.zetraid
 
 import io.flutter.embedding.android.FlutterActivity
 
